@@ -50,7 +50,13 @@ Not yet, but it's coming...">
 <h1>Has it come home?</h1>
 <footer>
     Made with ❤️ in London<br/>
-    <a href="https://louisbougeard.com" target="_BLANK">by me.</a>
+    <a href="https://louisbougeard.com" rel="noreferrer" target="_BLANK">by me.</a>
 </footer>
+
+<script>
+    if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js');
+    }
+</script>
 </body>
 </html>
