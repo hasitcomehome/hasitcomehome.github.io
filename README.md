@@ -15,6 +15,8 @@ We are all about transparency, so check out our transparent roadmap below:
 - [x] Kickoff Time
 - [ ] Live score of the England final
 - [ ] Make the site into a PWA
+- [ ] Celebration event when it comes home
+- [ ] Commiseration event in the highly unlikely event that is doesn't come home
 - [ ] Have a player retweet about the site
 - [ ] Its home
 
