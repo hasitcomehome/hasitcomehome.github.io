@@ -16,6 +16,6 @@ We are all about transparency, so check out our transparent roadmap below:
 - [ ] Live score of the England final
 - [ ] Make the site into a PWA
 - [ ] Have a player retweet about the site
-- [ ] It come home
+- [ ] Its home
 
 ![Image of it coming home](https://hasitcomehome.com/bg.jpg)
