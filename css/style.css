@@ -55,6 +55,9 @@ h2 iframe {
 #ko {
     font-size: 16px;
 }
+#touching-distance {
+    margin-bottom: -30px;
+}
 #score {
     font-weight: normal;
     margin-top: 10px;
@@ -64,5 +67,9 @@ h2 iframe {
 @media only screen and (min-width: 600px) {
     h2 {
         font-size: 50px;
+    }
+    #touching-distance {
+        width: 560px;
+        margin-left: 270px;
     }
 }
