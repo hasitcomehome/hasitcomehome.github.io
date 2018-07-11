@@ -12,6 +12,7 @@ We are all about transparency, so check out our transparent roadmap below:
 - [x] Shamelessly plugged https://louisbougeard.com/
 - [x] Allowed users to listen to Three Lions whilst waiting for it to come home
 - [x] Live score of the England semi-final
+- [x] Kickoff Time
 - [ ] Live score of the England final
 - [ ] Make the site into a PWA
 - [ ] Have a player retweet about the site
