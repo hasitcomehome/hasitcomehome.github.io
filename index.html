@@ -10,7 +10,7 @@
     <meta name="author" content="Bouge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#c0392b">
-    <link rel="stylesheet" href="css/style.css?v=2.0">
+    <link rel="stylesheet" href="css/style.css?v=3.0">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="https://hasitcomehome.com">
     <meta name="twitter:title" content="Has it Come Home?">
@@ -49,6 +49,8 @@ Not yet, but it's coming...">
 <div class="hero">
     <div class="hero-cover">
         <h2>Not yet, but it's coming...<br/>
+            <span id="score"></span>
+            <br/>
             <iframe src="https://open.spotify.com/embed/track/1b7kLkJkr6XRYgWqVmDm05" width="310" height="80"
                     frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         </h2>
@@ -62,8 +64,9 @@ Not yet, but it's coming...">
 
 <script>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js');
+        navigator.serviceWorker.register('/sw.js?v=3.0');
     }
 </script>
+<script src="script.js?v=3.0"></script>
 </body>
 </html>
