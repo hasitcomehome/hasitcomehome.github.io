@@ -28,4 +28,4 @@ function getLatestScores() {
 
 }
 
-getLatestScores();
+//getLatestScores();
